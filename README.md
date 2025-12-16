@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hola, soy Aylin Rodríguez
 
-<!--
-**Aylin-Rodriguez/Aylin-Rodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Informática (USACH)  
+💡 Interesada en desarrollo full stack con enfoque en NLP e IA  
+📍 Santiago, Chile
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+Me interesa construir soluciones tecnológicas que resuelvan problemas reales,
+especialmente aplicaciones web que integren procesamiento de lenguaje natural.
+He trabajado con modelos como BERT Multilingüe y LLaMA 2, y disfruto aprender
+nuevas tecnologías de forma práctica.
+
+---
+
+## 🧠 Tecnologías
+**Lenguajes:** Python, JavaScript  
+**Frontend:** React, Tailwind CSS  
+**Backend:** FastAPI, Flask, Node.js, Golang  
+**IA / NLP:** Transformers, BERT Multilingüe  
+**Bases de datos:** PostgreSQL, MongoDB  
+**Herramientas:** Git, GitHub, Docker, Linux
+
+---
+
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/aylin-rodriguez-berrios-60541532a
+- Email: aylinr.berrios@gmail.com // aylin.rodriguez@usach.cl
+
